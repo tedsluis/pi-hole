@@ -26,3 +26,5 @@ s.shopify.com
 keystone.mwbsys.com
 dl.dropbox.com
 api.ipify.org
+alicdn.com
+aligtr061.mmstat.com
