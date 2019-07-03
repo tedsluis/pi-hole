@@ -1,9 +1,21 @@
 # Pi-hole config
 
-###
-Clone this repo
+### Prerequisites
+
+* Raspberry Pi
+* Raspbian Stretch or newer
+* Docker
+* Static IP
+
+### Steps
+
+* Clone this repo
+* Create and start *pi-hole.service*
+* Create crontab enteries
+
+# Clone this repo
 ```bash
-~ $ git clone git@github.com:tedsluis/pi-hole.git
+~ $ git clone https://github.com/tedsluis/pi-hole.git
 ~ $ cd pi-hole
 ```
 
