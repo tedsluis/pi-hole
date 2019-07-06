@@ -98,10 +98,15 @@ collector.abc-host.net.au # ABC iView
 cws.conviva.com
 app-analytics.snapchat.com # Snapchat
 gfwsl.geforce.com # Nvidia
-gfe.geforce.com # Nvidia
-telemetry.nvidia.com # Nvidia
-gfe.nvidia.com # Nvidia
-telemetry.gfe.nvidia.com # Nvidia
+gfe.geforce.com
+telemetry.nvidia.com
+gfe.nvidia.com
+telemetry.gfe.nvidia.com
+services.gfe.nvidia.com
+accounts.nvgs.nvidia.com
+images.nvidiagrid.net
+rds-assets.nvidia.com
+assets.nvidiagrid.net
 #events.gfe.nvidia.com # Nvidia (Interferes with GeForce Experience driver updates)
 telemetry.malwarebytes.com # Malwarebytes
 tags.tiqcdn.com # Ancestery

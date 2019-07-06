@@ -4,7 +4,7 @@
 #License: GNU General Public License v3.0
 #Home: https://quidsup.net/notrack/blocklist.php
 #@ GitHub : https://raw.githubusercontent.com/quidsup/notrack/master/trackers.txt
-#Updated: 17 Jun 2019
+#Updated: 05 Jul 2019
 #LatestVersion 0.9.0
 #---------------------
 1-cl0ud.com #Lead Forensics
@@ -187,6 +187,7 @@ adgiant.io #AdGiant
 adgibbon.com #AdGibbon
 adglare.net
 adgrx.com #AdGear
+adhigh.net #Acuity Ads
 adinfo.aol.com #AOL
 adinfuse.com #Velti
 adingo.jp #Voyage Group
@@ -297,7 +298,7 @@ ads2.msn.com #Microsoft
 ads4apps.net #Smaato
 ads4pubs.com #Unknown Advertising
 ads5-adnow.com
-adsafeprotected.com
+adsafeprotected.com #Ad Science
 adsafety.net #Online Solution Int
 adsbookie.com
 adscale.de
@@ -464,11 +465,13 @@ alphacreatesend1.com #Campaign Monitor Pty
 alphacreatesend2.com #Campaign Monitor Pty
 alphacreatesend3.com #Campaign Monitor Pty
 altabold1.com #Lead Forensics
+altitude-arena.com #Altitude ARENA
 amessagewithabottle.com #Uknown Tracker
 amgdgt.com #Amobee
 amobee.com #Amobee
 amobee.net #Amobee
 amobee.org #Amobee
+amp.services #Jemm media
 ampaign.click #msales
 amplience.com #Amplience
 amplitude.com
@@ -689,6 +692,7 @@ bingads.microsoft.com #Microsoft
 bis-dic15.com #Lead Forensics
 bispd.com
 bisrv.com
+bitmovin.com #Bitmovin
 bitssurfer.com #bitssurfer
 bizible.com
 bizographics.com
@@ -803,6 +807,7 @@ budgetedbauer.com #Tracker Unknown
 bugherd.com
 bugsnag.com #Bugsnag
 builfico.de
+bumlam.com #Tracking Unknown
 bunchbox.co #Peaks and Pies
 bundles.api.here.com #German Maps possible Windows 10 spying
 bunti.ng #Bunting
@@ -853,7 +858,7 @@ captifymedia.com
 carambo.la
 carbonads.net
 cardlytics.com #Cardlytics
-casalemedia.com
+casalemedia.com #Casale Media
 cash4charities.com #Digital Window
 cash4charity.com #Digital Window
 cash4clubs.com #Digital Window
@@ -1081,7 +1086,7 @@ connatix.com #Connatix
 connct-9.com #Lead Forensics
 connectad.io #ConnectAd
 connecteddevices.net #Millennial Media
-connexity.net
+connexity.net #Connexity
 consumerenergyreport.com
 content-square.net
 content.ad
@@ -1241,7 +1246,7 @@ ddf-t1.com #Ysance
 ddf-t2.com #Ysance
 ddf-t3.com #Ysance
 de.coremetrics.com
-de17a.com #AdAction
+de17a.com #Delta Projects
 dealfarm.info #msales
 dealitright.click #msales
 dealzcamp.com #msales
@@ -2212,6 +2217,7 @@ mbd0.com #Campaign Monitor Pty
 mbd1.com #Campaign Monitor Pty
 mbenchmark.com #comScore
 mbsuitmsmt.com #msales
+mbww.com #IPG Mediabrands
 mc.yandex.ru #Yandex
 mcsecure.mobi
 mcstats.org #Minecraft
@@ -2265,6 +2271,8 @@ meteora.co
 meteora.us
 metric.asos.com
 metric.gstatic.com #Google
+metric.ipv6test.com #Tracking Unknown
+metric.ipv6test.net #Tracking Unknown
 metrics.aftonbladet.se #Aftonbladet
 metrics.argos.co.uk
 metrics.barclays.co.uk
@@ -12329,6 +12337,7 @@ mobfox.org #MobFox
 mobfox.us #MobFox
 mobile-ad-cloud.com #Smaato
 mobileaccesspanel.com #comScore
+mobileadtrading.com #Mobile Ad Trading
 mobileapptracking.com
 mobilebenchmarck.com #comScore
 mobilebenchmark.com #comScore
@@ -12725,6 +12734,7 @@ performancemail.com #Aurea
 performancemail.net #Aurea
 performax.cz #Performax
 performfeeds.com #Perform Group
+performgroup.com #Perform
 permission-research.com #TMRG
 permission-research.net #TMRG
 permissionresearch.com #TMRG
@@ -13107,7 +13117,7 @@ rvfrm2009.com #RevenueHits
 rvfrm2010.com #RevenueHits
 rvfrm2011.com #RevenueHits
 s3network1.com #Lead Forensics
-s3xified.com #Tracker Unknown
+s3xified.com #Adtech
 s5network1.com #Lead Forensics
 saas-eue-1.com #Lead Forensics
 saas-euw-1.com #Lead Forensics
@@ -13870,6 +13880,7 @@ watcheezy.net
 watson.live.com #Microsoft
 watson.microsoft.com #Microsoft
 waudit.cz #WAudit
+wbtrk.net #Casale Media
 wci-fl.com
 we-stats.com #Tracker Unknown
 web-01-gbl.com #Lead Forensics
