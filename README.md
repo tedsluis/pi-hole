@@ -21,7 +21,7 @@
 
 ### Pi-hole systemd service
 ```bash
-~ $ vi /etc/systemd/system/pi-hole.service 
+~ $ sudo vi /etc/systemd/system/pi-hole.service 
 
 Description=pi-hole
 After=docker.service 
