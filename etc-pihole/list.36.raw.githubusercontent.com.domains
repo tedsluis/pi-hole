@@ -107,6 +107,7 @@ d1jwpcr0q4pcq0.cloudfront.net
 d1oxlq5h9kq8q5.cloudfront.net
 d2tnx644ijgq6i.cloudfront.net
 d3mjsomixevyw7.cloudfront.net
+d37ju0xanoz6gh.cloudfront.net
 dev-multiscreen.samsung.com
 device-metrics-us.amazon.com
 fkp.samsungcloudsolution.com
@@ -151,7 +152,6 @@ samsungacr.com
 samsungadhub.com
 samsungcloudsolution.com
 samsungcloudsolution.net
-samsungelectronics.com
 samsungosp.com
 samsungotn.net
 samsungqbe.com
@@ -163,14 +163,22 @@ syncplusconfig.s3.amazonaws.com
 targeted-config-test.samsungacr.com
 test.samsungrm.net
 #time.samsungcloudsolution.com // if blocked, services like Plex, YouTube and Amazon Video not working anymore on some Samsung TV's
-upu.samsungelectronics.com
 us-api.samsungyosemite.com
 vd.emp.prd.s3.amazonaws.com
 vdterms.samsungcloudsolution.com
 www.samsungotn.net
 www.samsungrm.net
+samsungelectronics.com
+apu.samsungelectronics.com
+bpu.samsungelectronics.com
+dpu.samsungelectronics.com
+kpu.samsungelectronics.com
+upu.samsungelectronics.com
+zpu.samsungelectronics.com
 xpu.samsungelectronics.com
 ypu.samsungelectronics.com
+vd.contents.prod.eu.s3.amazonaws.com
+log-ingestion-eu.samsungacr.com
 
 # HBBTV
 cdn.hbbtv.smartclip.net
