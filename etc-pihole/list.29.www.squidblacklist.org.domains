@@ -1,4 +1,9 @@
-#  Last Update: Thu Jul 18 10:24:05 EDT 2019
+#  Last Update: Sat Jul 20 08:14:55 EDT 2019
+#  
+#  sbl-dg-ads: Squidguard or Dansguardian compatible - blacklist compiled by squidblacklist.org.      -Made In USA-
+#  
+#  You may freely use, copy, and redistribute this blacklist in any manner you like.
+#  
 #  
 #  sbl-dg-ads: Squidguard or Dansguardian compatible - blacklist compiled by squidblacklist.org.      -Made In USA-
 #  
@@ -12,7 +17,6 @@
 247media.com
 247view.net
 24log.de
-24pm-affiliation.com
 2beon.co.kr
 2dpt.com
 3393.com
@@ -144,7 +148,6 @@ adition.net
 adjector.com
 ad.jetsoftware.com
 adjix.com
-adjs.net
 adjustnetwork.com
 ad.keenspace.com
 adkengage.com
@@ -1089,7 +1092,6 @@ gannett.gcion.com
 gator.com
 gayadnetwork.com
 gcdn.2mdn.net
-geede.info
 geniad.net
 geobanner.adultfriendfinder.com
 geo.digitalpoint.com
@@ -1240,7 +1242,6 @@ lfstmedia.com
 lib.adnxs.com
 ligatus.com
 lightspeedcash.com
-lilil.bid
 linicom.co.il
 linicom.co.uk
 linkbuddies.com
@@ -1474,7 +1475,6 @@ popmyad.com
 poppysol.com
 popsads.com
 populisengage.com
-pop-under.ru
 popunder.ru
 popups.infostart.com
 popwin.net
@@ -1961,7 +1961,6 @@ track.spartamobile.com
 track.sugarmamas.com
 track.superbush.com
 track.tabooinsertions.com
-track.tabootrannys.com
 track.tapgerine.net
 track.teenagewhores.com
 track.teenmodels.com
@@ -2138,6 +2137,5 @@ zencudo.co.uk
 zeus.developershed.com
 z-na.amazon-adsystem.com
 znaptag.com
-zoomdirect.com.au
 zorwrite.com
 zxxds.net
