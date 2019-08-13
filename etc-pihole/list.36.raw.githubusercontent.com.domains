@@ -94,7 +94,7 @@ ad.samsungadhub.com
 ads.samsungads.com
 amauthprd.samsungcloudsolution.com
 api-hub.samsungyosemite.com
-auth.samsungosp.com
+#auth.samsungosp.com // if blocked, samsung accounts will fail to authenticate
 az43064.vo.msecnd.net
 cdn.samsungcloudsolution.com
 cdn.samsungcloudsolution.net
@@ -152,7 +152,7 @@ samsungacr.com
 samsungadhub.com
 samsungcloudsolution.com
 samsungcloudsolution.net
-samsungosp.com
+#samsungosp.com
 samsungotn.net
 samsungqbe.com
 samsungrm.net
@@ -206,7 +206,7 @@ hbbtv.3sat.de
 # Other useless connections from Smart-TV
 ad.71i.de
 api.nfl.com
-apicache.vudu.com
+# apicache.vudu.com # needed for vudu app see issue22
 cdn.smartclip.net
 cdns-content.dzcdn.net
 cert-test.sandbox.google.com

@@ -3,9 +3,9 @@
 #Author: QuidsUp
 #License: GNU General Public License v3.0
 #Home: https://quidsup.net/notrack/blocklist.php
-#@ GitHub : https://raw.githubusercontent.com/quidsup/notrack/master/trackers.txt
-#Updated: 13 Jul 2019
-#LatestVersion 0.9.0
+#@ GitLab : https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
+#Updated: 06 Aug 2019
+#LatestVersion 0.9.1
 #---------------------
 1-cl0ud.com #Lead Forensics
 1-creative-1.com #Lead Forensics
@@ -126,6 +126,7 @@ acuityplatform.org #Acuity Consumer Connection Platform
 acxiom-online.com #Acxiom
 ad-center.com
 ad-dev.globalnoticias.pt #Global Media Group
+ad-maven.com #AdMaven
 ad-score.com
 ad-serverparc.nl
 ad-stir.com #Ad Stir
@@ -135,6 +136,7 @@ ad.weplayer.cc #Advertising Unknown
 ad2upapp.com
 ad4game.com #Ad4Game
 ad4mat.net #Ad4mat
+ad688.com #Advertising Unknown
 ad6media.fr #Ad6Media
 adacado.com #Adacado
 adaction.mobi #AdAction
@@ -284,6 +286,7 @@ ads-for-apps.com #Smaato
 ads-verify.net
 ads.aws.viber.com #Viber
 ads.chaturbate.com #Chaturbate
+ads.citymagazine.si #City Magazine
 ads.diamonds #msales
 ads.ebay.com #eBay
 ads.fineco.it #Fineco
@@ -303,6 +306,7 @@ adsbookie.com
 adscale.de
 adscience.nl #Adscience
 adsclean.com
+adsco.re #Adscore
 adsegments.imgs.sapo.pt #Sapo
 adsensecustomsearchads.com
 adserv.com #AdRate
@@ -379,6 +383,7 @@ adwise.fr #AdWise
 adwise.mobi #AdWise
 adwise.org #AdWise
 adwise.ru #AdWise
+adwonder.cn #Adwonder
 adworldmedia.com #AdWorldMedia
 adx1.com #Adsty
 adxite-ads.com #Unknown Advertising
@@ -489,6 +494,7 @@ analytics.gandi.net #Gandi
 analytics.newsinc.com
 analytics.nznweb.com.br #NZN
 analytics.plex.tv #Plex
+analytics.primorske.si #Primorske novice
 analytics.query.yahoo.com #Yahoo
 analytics.sapo.pt #Sapo
 analytics.schoolwires.com
@@ -649,6 +655,11 @@ bdg001a.com #Lead Forensics
 beacon.asda.com #Asda
 beacon.groceries.asda.com #Asda
 beacon.guim.co.uk #The Guardian
+beacons.gvt2.com #Google
+beacons2.gvt2.com #Google
+beacons3.gvt2.com #Google
+beacons4.gvt2.com #Google
+beacons5.gvt2.com #Google
 beaconsinspace.com #BeaconsInSpace
 beanstock.com
 beemray.com #Beemray
@@ -657,6 +668,7 @@ behancemanage.com #Adobe
 behavior.com #Adobe
 behavioralengine.com #OnAudience
 behavioralmailing.com #OnAudience
+beintoo.net #Beintoo
 berg-6-82.com #Lead Forensics
 beriacroft.com #Advertising Unknown
 best-dental-implants-tracking.com
@@ -687,6 +699,8 @@ bigspeedpro.com
 bigtentresearch.com #TMRG
 bigtentresearch.net #TMRG
 billmscurlrev.com #msales
+billyrtb.com #Tracking Unknown
+bingads.com #Microsoft
 bingads.microsoft.com #Microsoft
 bis-dic15.com #Lead Forensics
 bispd.com
@@ -1091,6 +1105,7 @@ consumerenergyreport.com
 content-square.net
 content.ad
 contentclick.co.uk
+contentexchange.me #ContentExchange
 contentfeed.net
 contentquery.net
 contentwindow.com #Digital Window
@@ -1627,6 +1642,7 @@ freegreatapps.com #MdotM
 freeskreen.com #SlimCut Media
 freestar.io #Freestar
 freewall.com #AppNexus Inc
+freewheel.tv #FreeWheel
 fresh8.co
 freshmedia.click #msales
 friendinsites.com #Keywee
@@ -1692,6 +1708,7 @@ gleam.io #Gleam
 gleamio.com #Gleam
 glimr.io #GLIMR
 glispa.com #Glispa
+globalemedia.net #Globale media
 globalmonetization.com #msales
 globaloffers.link #msales
 globalsitecheck.com #Traffic Cake
@@ -1706,6 +1723,7 @@ golittretre.info #Tracker Unknown
 gooanalytics.com #Buta Trading
 goodemc.com #Advertising
 google-analytics.com
+googleanalytics.com #Google
 googlesyndication.com
 googletagmanager.com
 googletagservices.com
@@ -1992,6 +2010,9 @@ ioam.de
 ipccdn.co.uk
 ipinfo.io #IPinfo
 ipredictive.com #Adelphic
+iprom.net #iPROM
+ipromcloud.com #iPROM
+ipromcloud.net #iPROM
 ipromote.com
 isboost.co.jp #Boost
 ist-track.com
@@ -2101,6 +2122,7 @@ ligatus.biz #Ligatus
 ligatus.com #Ligatus
 ligatus.info #Ligatus
 ligatus.us #Ligatus
+lightdatahouse.com #LightDataHouse
 lijit.com
 likemastr.com
 limeishang.com #Adverts
@@ -2116,6 +2138,7 @@ listrakbi.com
 liveadexchanger.com
 liveadvert.com
 livefyre.com
+livenetlife.com #Live Net Life
 liveperson.net
 livepromotools.com #Unknown Advertising
 liverail.com
@@ -2147,6 +2170,7 @@ lp4.io #Linkpulse
 lpsnmedia.net
 lrcdn.net
 lucidmedia.com
+luckyorange.com #Lucky Orange
 luxup.ru #AdLabs
 lyhxwx.com
 lynxbroker.de
@@ -2292,6 +2316,7 @@ mgsvc.com
 micpn.com
 microsoftpanel.com #comScore
 microsoftpanel.net #comScore
+midas-network.com #Midas Network
 midrollvideo.com #BrightRoll
 milenar-ads.pt
 millennialmedia.com
@@ -12361,6 +12386,7 @@ mobilexpression.net #TMRG
 moblander.link #msales
 moblexp.com #TMRG
 moblexp.net #TMRG
+mobpals.com #Mobpals
 mobpartner.com #MobPartner
 mobpartner.mobi #MobPartner
 mobrdrmsmt.com #msales
@@ -12454,6 +12480,7 @@ mxptint.net
 myads.com #Rubicon
 myapptv.net #Millennial Media
 myaudience.de
+mybbc-analytics.files.bbci.co.uk #BBC
 mybuys.com
 myclickmeter.com #Click Meter
 mycomscore.com #comScore
@@ -12607,6 +12634,7 @@ offertunity.click #msales
 officemart.ru
 offpageads.com
 ofnsv69.com #Lead Forensics
+ogl.primorske.si #Primorske novice
 oileddaintiessunset.info
 ojrq.net #Impact Radius
 om.au
@@ -12636,6 +12664,7 @@ onclicktop.com
 oneclickdeal.info #msales
 onedmp.com
 onemarketnetwork.com #One Market
+onesignal.com #OneSignal
 onestat.com
 onetag-sys.com
 online-metrix.net
@@ -12693,6 +12722,7 @@ outrageousclick.com #msales
 ownedit.com #Owned it
 owneriq.net
 p-td.com
+p.yotpo.com #Yotpo
 p161.net #161 Media
 p2l-menuiseries.com #Ysance
 pagefair.com #Pagefair
@@ -12752,6 +12782,7 @@ pictela.net #AOL
 piksel.com
 pimpb.us #AppNexus Inc
 pinchoo.com #RevenueHits
+ping-dot-acp-magento.appspot.com #Google
 ping.ublock.org #ublock tracking
 pingdom.net
 pingme.net #RadiumOne
@@ -12771,14 +12802,18 @@ pixel-eu.rubiconproject.net.akadns.net #Rubicon
 pixel.bild.de #Bild
 pixel.brit.co
 pixel.facebook.com #Facebook
+pixel.getshogun.com #Shogun
 pixel.honestjohn.co.uk
 pixel.messenger.com #Facebook
 pixel.nymag.com #New York Magazine
 pixel.reddit.com
 pixel.redditmedia.com
 pixel.rubiconproject.net.akadns.net #Rubicon
+pixel.runative-syndicate.com #Runactive
+pixel.spotify.com #Spotify tracking ads
 pixel.watch #Click Meter
 pixel.wp.com #Wordpress
+pixel.yola.com #Yola
 pixeltracksys.io #Tracking Unknown
 pixelunion.net
 pixfuture.net
@@ -12917,6 +12952,7 @@ qubitproducts.com #QuBit Digital
 quelhadoop.com #Ysance
 questback.com #Questback
 questionmarket.com
+questmedia.ru #QuestMedia
 qy168.pw #Advertising
 r.i0.cz #centrum.cz
 r1-cdn.net #RadiumOne
@@ -13000,6 +13036,7 @@ researchad.com #G1System
 researchad.net #G1System
 researchresults.com #Reserch Results
 reson8.com.au
+resorsedroblet.pro #Advertising Unknown
 responsetap.com
 retailautomata.com
 retargeting.biz #Retargeting
@@ -13182,6 +13219,7 @@ senaltres.com #Hubspot
 senaluno.com #Hubspot
 send2delicious.com #comScore
 sendgrid.me
+sendpulse.com #SendPulse
 sendtomyfriend.com #Campaign Monitor Pty
 sensic.net
 sentifi.com
@@ -13400,12 +13438,14 @@ softwaredefineddelivery.org #instartlogic
 softwaredefineddelivery.us #instartlogic
 sojern.com #Sojern
 solvemedia.com
+sonataplatform.com #Sonata
 sonobi.com
 soosooka.com
 sophus3.com
 sortable.com
 sovrn.com
 spaceio.xyz #SpaceIO
+sparkflow.net #Undertone
 specificclick.net
 speedshiftmedia.com
 spendandraise.org #Digital Window
@@ -13442,6 +13482,7 @@ ssw.live.com #Microsoft
 stat.alibaba.com
 stat.swedbank.se #Swedbank
 statcounter.com
+static.ads-twitter.com #Twitter
 stats.bbc.co.uk
 stats.ebay.com #eBay
 stats.ft.com #Financial Times
@@ -13538,6 +13579,7 @@ tangiblee.com
 tao92.cn #Advertising
 tapad.com #Tapad
 tapas.net #Baidu
+tapdaq.com #Tapdaq
 tapfiliate.com
 tapjoyads.com
 tb.ask.com #Ask Toolbar
@@ -13583,6 +13625,7 @@ thebrighttag.com
 thedailypocket.mobi #Millennial Media
 thehellobar.com #Crazy Egg
 thehut.net
+themoneytizer.com #Moneytizer
 thepornsurvey.com #Polling
 therelevancegraph.mobi #Millennial Media
 theresulter.com #RevenueHits
@@ -13604,6 +13647,7 @@ tiqcdn.com
 titanium1100-en-au.census.trendmicro.com #Trendmicro
 tkqlhce.com
 tl813.com
+tm-awx.com #Trinity Mirror Midland Group
 tm1-001.com #Lead Forensics
 tmrginc.com #TMRG
 tmrginc.net #TMRG
@@ -13687,6 +13731,7 @@ tribalfusion.com
 triggit.com
 trk.i0.cz #centrum.cz
 trk.justanswer.com #justanswer.com
+trk.pinterest.com #Pinterest
 trkme.net
 trkmob1.com #RevenueHits
 trkthatpaper.org #Advertising Unknown
@@ -13702,6 +13747,7 @@ trustedsite.com
 truviewanalytics.com #Adobe
 truviewdata.com #Adobe
 trychameleon.com #Chameleon
+tsyndicate.com #Advertising Unknown
 ttgtmedia.com #Tech Target
 ttmdduyuru.net #Tracker Unknown
 ttxm.co.uk
@@ -13935,6 +13981,7 @@ wickhillnews.com
 wikia-beacon.com
 win30000.com #comScore
 win30000.net #comScore
+wingify.com #Wingify
 wistia.com
 wistia.net
 woltersadvertising.com #Wolters Advertising

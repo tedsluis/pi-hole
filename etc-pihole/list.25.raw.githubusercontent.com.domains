@@ -4,7 +4,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 33,209
+# Domain count: 33,242
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -33215,3 +33215,36 @@
 0.0.0.0 track.adxxx.com
 0.0.0.0 tracking.adxxx.com
 0.0.0.0 vi.adxxx.com
+0.0.0.0 www.insightexpressai.com
+0.0.0.0 insightexpressai.com
+0.0.0.0 ad.insightexpressai.com
+0.0.0.0 ai003.insightexpressai.com
+0.0.0.0 hk.aip.insightexpressai.com
+0.0.0.0 my.aip.insightexpressai.com
+0.0.0.0 sg.aip.insightexpressai.com
+0.0.0.0 tw.aip.insightexpressai.com
+0.0.0.0 aip-stg.insightexpressai.com
+0.0.0.0 cint.insightexpressai.com
+0.0.0.0 core.insightexpressai.com
+0.0.0.0 global.insightexpressai.com
+0.0.0.0 icompass.insightexpressai.com
+0.0.0.0 images.insightexpressai.com
+0.0.0.0 infoscout.insightexpressai.com
+0.0.0.0 secure.insightexpressai.com
+0.0.0.0 surveys.insightexpressai.com
+0.0.0.0 clinkadtracking.com
+0.0.0.0 www.clinkadtracking.com
+0.0.0.0 click.inplayable.com
+0.0.0.0 www.inplayable.com
+0.0.0.0 inplayable.com
+0.0.0.0 www.leapmobs.com
+0.0.0.0 leapmobs.com
+0.0.0.0 click.leapmobs.com
+0.0.0.0 clk.cpi.leapmobs.com
+0.0.0.0 track.cpi.leapmobs.com
+0.0.0.0 www.hopemobi.net
+0.0.0.0 hopemobi.net
+0.0.0.0 adjs.hopemobi.net
+0.0.0.0 clk.hopemobi.net
+0.0.0.0 mgr.hopemobi.net
+0.0.0.0 track.hopemobi.net

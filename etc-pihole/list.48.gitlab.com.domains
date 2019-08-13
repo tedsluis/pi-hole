@@ -2,20 +2,20 @@
 #Description: Malware Domains Block List from quidsup.net
 #Author: QuidsUp
 #License: GNU General Public License v3.0
-#Home: https://quidsup.net/notrack/blocklist.php
-#@ GitHub : https://raw.githubusercontent.com/quidsup/notrack/master/trackers.txt
-#Updated: 13 Jul 2019
-#LatestVersion 0.8.10
+#Home: https://quidsup.net/notrack/malware.php
+#@ GitLab : https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
+#Updated: 06 Aug 2019
+#LatestVersion 0.9.1
 #---------------------
 1kdailyprofit.biz #Scam
 1kdailyprofit.co #Scam
 abcd7777.com #Chinese Scammer
 abcdnf.com #Chinese Scammer
 ad2up.com #Potentially Unwanted Application
-adfuture.cn #Chinese Android Data Collection
-adsunflower.com #Chinese Android Data Collection
-advmob.cn #Chinese Android Data Collection
-akamoihd.net #Malware - Ad Injector
+adfuture.cn #Android Malware
+adsunflower.com #Android Malware
+advmob.cn #Android Malware
+akamoihd.net #Ad Injector
 amazonco.uk #Fake Site
 analyticsonwebtrack.site #Fake Site
 andr-security.com #PUA
@@ -38,10 +38,11 @@ cybergateway.net #Phishing
 digitaloptout.com #Ad Injector
 donation-tools.org #Ad Injector
 drivethelife.com #PUA
+e-facturaciones.com #Malware
 easy-download.co #Malware
 edatasales.com #PUA
 epicunitscan.info #PUA
-facebookprofileview.com #Malicious software
+facebookprofileview.com #Malware
 ffdns.net #DNS Exploiters
 freecalculation.com #Malvertising
 gettop.info #RIG Exploit
@@ -52,13 +53,13 @@ gmil.com #Fake Site
 gonirola.com #Malicious Site
 googe.com #Fake Site
 googele.com #Typo
-hanstrackr.com #Malware - Flash Video Downloader
+hanstrackr.com #Malware
 hemailaccessonline.com #Browser Hijacker
-hoholikik.club #Malware - Ad Injector
+hoholikik.club #Malvertising
 ilo134ulih.com #Malvertising
 imgfarm.com #PUA - Mindspark
 incluster.com #PUA
-intimglobus.ru #suspicious
+intimglobus.ru #Suspicious
 iphoneoptimizer.com #Scam
 ironbeast.io #Suspicious
 iubenda.com #Annoying
@@ -77,12 +78,22 @@ modelwork.org #Browser Hijacker
 myfood.ltd #Potentially Unwanted Application
 mysearch.com #Browser Hijacker
 myxns.cn #DNS Exploiters
+nextyourcontent.com #Adware
+nuxues.com #Popups
+oaqjwapqdho.com #Potentially Harmful
 oc.uk #Typo of .co.uk
 omnibox.bar #Browser Hijacker
 onclickbright.com #Malvertising
 onlineformfinder.com #PUA - Mindspark
 onlinesurveydaily.com #Annoying
+pdn-1.com #Malware
+pdn-2.com #Malware
+pdn-3.com #Malware
+pdn-4.com #Malware
+pdn-5.com #Malware
+promo-bc.com #Ad Injector
 prosoftsolution.in #Phishing
+proudflex.org #Malware
 prugskh.com #Ragentek Rootkit
 prugskh.net #Ragentek Rootkit
 push-signals.online #Popups
@@ -92,6 +103,7 @@ reimageplus.com #Scam
 reliablesurfingext.biz #Fake updates
 rensovetors.info #Malware
 retreatoftheretreat.site #Malware - RIG Exploit
+roughted.com #Malvertising
 s4yxaqyq95.com #Popups
 s4yxaqyq95.fuk #Popups
 safedownload.co #Malware
@@ -99,6 +111,7 @@ searchnet.com #Malicious Site
 searchtabnew.com #Malicious Site
 securesurf.biz #Browser Hijacker
 servicekgbfit.us #Fake BSODS
+sharkadnetwork.com #Adware
 simplebookmark.info #Buta Trading - leak analytics
 solvusoft.com #Malicious Files
 special-offers.online #Popups
@@ -108,6 +121,7 @@ szgl120.com #Scam
 taosha.cc #Android Trojan
 techsuperb.biz #Adware
 tiny.ie #Phishing
+toftothisle.info #Malvertising
 toogle.com #Malicious Site
 tourtodaylaboratory.com #PUA - Filezilla
 trumpetedextremes.com #Ad Injector
@@ -115,8 +129,9 @@ trustednotice.news #Popups
 tweakbit.com #PUA
 uk-hub.com #Phishing
 wbidder.online #Popups
+wcomhost.com #Phishing
 wixanalyticssitebuildertool.site #Phishing
-wkvplhxvpk.com #Malware - Unknown Exploit Kit
+wkvplhxvpk.com #Malware
 wwu-natwiest.com #Typo
 wwwp.link #Malicious Site
 xn--gmail-bgd.com #Fake Site
@@ -124,4 +139,3 @@ xyz.com.br #Scammer
 yourfirstcheapshop.com #Adware
 zief.pl #Malicious Site
 znznznznzn.com #Malicious Site
-zorwrite.com
