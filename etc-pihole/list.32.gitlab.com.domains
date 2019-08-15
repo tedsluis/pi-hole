@@ -4,7 +4,7 @@
 #License: GNU General Public License v3.0
 #Home: https://quidsup.net/notrack/blocklist.php
 #@ GitLab : https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
-#Updated: 06 Aug 2019
+#Updated: 14 Aug 2019
 #LatestVersion 0.9.1
 #---------------------
 1-cl0ud.com #Lead Forensics
@@ -655,6 +655,7 @@ bdg001a.com #Lead Forensics
 beacon.asda.com #Asda
 beacon.groceries.asda.com #Asda
 beacon.guim.co.uk #The Guardian
+beacons.gcp.gvt2.com #Google
 beacons.gvt2.com #Google
 beacons2.gvt2.com #Google
 beacons3.gvt2.com #Google
@@ -743,6 +744,7 @@ bounceexchange.com
 bpmask.com #Advertising
 brainboxdigital.com #BrainBox Digital
 branch.io #Branch Metrics
+brand-display.com #Knorex XPO
 brand-server.com
 brandcrumb.com #Brandcrumb
 brandedlinks.com #Click Meter
@@ -1115,6 +1117,7 @@ conversionlogic.net #Conversion Logic
 convertro.com
 conviva.com #Conviva
 conyak.com
+cookiebot.com #Annoyance
 cookielesstargeting.info #YieldBot
 cookielesstargeting.net #YieldBot
 cookielesstargeting.org #YieldBot
@@ -1194,7 +1197,7 @@ crowdignite.com
 crsspxl.com #Cross Pixel
 crtracklink.com
 crushads.com #bluTonic
-crwdcntrl.net
+crwdcntrl.net #Lotame
 cspbuilder.info
 cstoa.com
 ctasnet.com
@@ -1497,6 +1500,7 @@ emltrk.com
 emlv01.com #Email Vision
 emv3.com
 emvnmp.com #Email Vision
+emxdgt.com #EMX
 en25.com #Oracle
 enecto.com #Enecto
 enecto.net #Enecto
@@ -1543,7 +1547,7 @@ ever-lohas.com #Advetising
 ever-track-51.com #Lead Forensics
 everestjs.net
 everesttech.net
-evergage.com
+evergage.com #Evergage
 evisitanalyst.com
 evyy.net #Impact Radius
 exacttarget.com #Salesforce
@@ -1567,6 +1571,7 @@ eyeota.com
 eyeota.net
 eyereturn.com #EyeReturn Marketing
 eyeviewads.com #EyeView
+ezoic.net #Ezoic
 ezp.bz
 face3media.com
 facetz.net #Exebid DCA
@@ -1911,9 +1916,10 @@ i-transactads.com
 i10c.net #instartlogic
 iadvize.com #iAdvize
 iasds01.com
-ib-ibi.com
+ib-ibi.com #Trancos
 ibillboard.com
 icandi.de
+id5-sync.com #ID5
 idaguang.com #Advertising
 idg.com
 idgknowledgehub.com
@@ -2111,7 +2117,7 @@ lelabdecisionnel.com #Ysance
 levexis.com
 lfstmedia.com #LifeStreet
 lgsmartad.com #Advertisements for LG Smart TVs
-liadm.com
+liadm.com #Liveintent
 lian13.com #HelloWorld
 librato.com #librato
 licasd.com #Live Intent
@@ -2123,7 +2129,7 @@ ligatus.com #Ligatus
 ligatus.info #Ligatus
 ligatus.us #Ligatus
 lightdatahouse.com #LightDataHouse
-lijit.com
+lijit.com #Lijit
 likemastr.com
 limeishang.com #Adverts
 linkbucks.com
@@ -2311,6 +2317,7 @@ metrics.plex.tv #PleX
 metrics.raptr.com #Raptr
 metricswindow.com #Digital Window
 metrigo.com
+mfadsrvr.com #BidSwitch
 mgid.com
 mgsvc.com
 micpn.com
@@ -12676,6 +12683,7 @@ onstate.com
 onthe.io #Tracker Unknown
 ontoplist.com
 ooyala.com
+opecloud.com #1PlusX
 open.oneplus.net #OnePlus
 openad.com #AppNexus Inc
 openadstream.com #AppNexus Inc
@@ -12714,7 +12722,7 @@ optilead.co.uk
 optimizely.com #Optimizely
 optimizesrv.com #Advertising Unknown
 optinmonster.com
-optnmnstr.com
+optnmnstr.com #OptinMonster
 optnmstr.com #New Relic
 outbrain.com #Outbrain
 outbrainimg.com #Outbrain
@@ -12784,6 +12792,7 @@ pimpb.us #AppNexus Inc
 pinchoo.com #RevenueHits
 ping-dot-acp-magento.appspot.com #Google
 ping.ublock.org #ublock tracking
+pingback.giphy.com #Giphy
 pingdom.net
 pingme.net #RadiumOne
 pingmemessenger.com #RadiumOne
@@ -12848,7 +12857,7 @@ popmyads.com #Pop My Ads
 popularix.com
 positiveadv.com #Click Meter
 post2delicious.com #comScore
-postrelease.com
+postrelease.com #Nativo
 postroller.com #BrightRoll
 postup.com #Post Up
 pow7.com
@@ -13035,7 +13044,7 @@ research-int.se #TNS Sifo
 researchad.com #G1System
 researchad.net #G1System
 researchresults.com #Reserch Results
-reson8.com.au
+reson8.com #Resonate
 resorsedroblet.pro #Advertising Unknown
 responsetap.com
 retailautomata.com
@@ -13080,6 +13089,7 @@ ringringmedia.biz #Amobee
 ringringmedia.com #Amobee
 ringringmedia.mobi #Amobee
 ringringmedia.net #Amobee
+rkdms.com #Merkle
 rlcdn.com
 rm0001.net #IBM Silverpop
 rm0002.net #IBM Silverpop
@@ -13384,7 +13394,7 @@ smartadserver.mobi #Smart Ad Server
 smartadserver.net #Smart Ad Server
 smartadserver.org #Smart Ad Server
 smartadserver.us #Smart Ad Server
-smartclip.net
+smartclip.net #Smartclip
 smarterclick.co.uk
 smartmpanel.com #comScore
 smartology.co #Smartology
@@ -13461,7 +13471,7 @@ spotad.co #Spot Ad
 spoteffects.com
 spoteffects.net
 spotim.market #Spot.IM
-spotxchange.com
+spotxchange.com #SpotX
 spoutable.com #Spoutable
 springboardplatform.com
 springserve.com
@@ -13478,6 +13488,7 @@ srvpub.com #RevenueHits
 ssacdn.com #Supersonic Mobile Advertising
 sscefsol.com #Advertising
 sspintrafmsmt.com #msales
+sspqns.com #HI-Media
 ssw.live.com #Microsoft
 stat.alibaba.com
 stat.swedbank.se #Swedbank
@@ -13500,10 +13511,11 @@ statuscake-email.com #Traffic Cake
 statuscake.com #Traffic Cake
 steelhousemedia.com
 steepto.com
-stickyadstv.com
+stickyadstv.com #StickyAdsTV
 sto3.spotify.com #Spotify tracking ads
 stormartists.com #Ad Web
 stormiq.com
+storygize.net #Storygize
 storymedia.se
 strands.com #Strands
 streamrail.com #StreamRail
@@ -13740,6 +13752,7 @@ trovaamici.com #Click Meter
 tru.am #TrueAnthem
 truehits.in.th #Truehits
 truehits.net #Truehits
+truoptik.com #Tru Optik
 truste-svc.net
 truste.com #TRUSTe
 trusted.site #PathDefender
@@ -13889,7 +13902,7 @@ vidlux.com
 vidmark.com
 vidoomy.com #Vidoomy
 vidyard.com
-viglink.com
+viglink.com #VigLink
 vilynx.com #Vilynx
 vindicosuite.com
 visistat.com

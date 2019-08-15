@@ -311,3 +311,14 @@ r4---sn-ab5l6n6s.googlevideo.com
 r1---sn-vgqsknez.googlevideo.com
 r3---sn-q4fl6ne6.googlevideo.com
 r2---sn-aigl6ner.googlevideo.com
+r6---sn-4g5ednee.googlevideo.com
+r1---sn-p5qlsndz.googlevideo.com
+r2---sn-ab5l6n6s.googlevideo.com
+r1---sn-a5meknee.googlevideo.com
+r1---sn-vgqsknll.googlevideo.com
+r5---sn-q4flrney.googlevideo.com
+r3---sn-5hne6n7s.googlevideo.com
+r4---sn-q4f7sn7l.googlevideo.com
+r6---sn-vgqs7nl7.googlevideo.com
+r1---sn-q4f7sn7z.googlevideo.com
+r5---sn-q4fl6nlr.googlevideo.com

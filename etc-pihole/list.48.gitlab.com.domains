@@ -4,11 +4,12 @@
 #License: GNU General Public License v3.0
 #Home: https://quidsup.net/notrack/malware.php
 #@ GitLab : https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
-#Updated: 06 Aug 2019
+#Updated: 14 Aug 2019
 #LatestVersion 0.9.1
 #---------------------
 1kdailyprofit.biz #Scam
 1kdailyprofit.co #Scam
+96.lt #Phishing
 abcd7777.com #Chinese Scammer
 abcdnf.com #Chinese Scammer
 ad2up.com #Potentially Unwanted Application
@@ -17,7 +18,7 @@ adsunflower.com #Android Malware
 advmob.cn #Android Malware
 akamoihd.net #Ad Injector
 amazonco.uk #Fake Site
-analyticsonwebtrack.site #Fake Site
+analyticsonwebtrack.site #Scam
 andr-security.com #PUA
 ashleyrnadison.com #Typo
 auslogics.com #PUA
@@ -78,6 +79,7 @@ modelwork.org #Browser Hijacker
 myfood.ltd #Potentially Unwanted Application
 mysearch.com #Browser Hijacker
 myxns.cn #DNS Exploiters
+news-bbc-uk.com #Scam
 nextyourcontent.com #Adware
 nuxues.com #Popups
 oaqjwapqdho.com #Potentially Harmful
@@ -130,6 +132,7 @@ tweakbit.com #PUA
 uk-hub.com #Phishing
 wbidder.online #Popups
 wcomhost.com #Phishing
+wealthyboost.com #Scam
 wixanalyticssitebuildertool.site #Phishing
 wkvplhxvpk.com #Malware
 wwu-natwiest.com #Typo
