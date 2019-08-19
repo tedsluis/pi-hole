@@ -343,3 +343,8 @@ r4---sn-a5mlrnek.googlevideo.com
 r5---sn-a5mlrn7z.googlevideo.com
 r5---sn-aigl6ned.googlevideo.com
 r4---sn-4g5ednll.googlevideo.com
+r4---sn-25ge7nls.googlevideo.com
+r6---sn-a5mekn7d.googlevideo.com
+r2---sn-25ge7nls.googlevideo.com
+r2---sn-4g5e6ney.googlevideo.com
+r5---sn-vgqsenlz.googlevideo.com
