@@ -364,3 +364,9 @@ r3---sn-4g5e6nsz.googlevideo.com
 r3---sn-hp57ynee.googlevideo.com
 r4---sn-ab5l6nzs.googlevideo.com
 r1---sn-vgqsrnel.googlevideo.com
+r2---sn-25glene7.googlevideo.com
+r1---sn-hp57yne7.googlevideo.com
+r4---sn-nx5s7n76.googlevideo.com
+r2---sn-nx5s7n7s.googlevideo.com
+r2---sn-4g5e6ns7.googlevideo.com
+r1---sn-p5qlsnsk.googlevideo.com
