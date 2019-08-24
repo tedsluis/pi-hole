@@ -370,3 +370,6 @@ r4---sn-nx5s7n76.googlevideo.com
 r2---sn-nx5s7n7s.googlevideo.com
 r2---sn-4g5e6ns7.googlevideo.com
 r1---sn-p5qlsnsk.googlevideo.com
+r5---sn-a5msen7z.googlevideo.com
+r1---sn-aigzrne7.googlevideo.com
+r4---sn-nx57ynls.googlevideo.com
