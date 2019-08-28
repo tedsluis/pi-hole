@@ -4,12 +4,13 @@
 #License: GNU General Public License v3.0
 #Home: https://quidsup.net/notrack/blocklist.php
 #@ GitLab : https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
-#Updated: 17 Aug 2019
+#Updated: 27 Aug 2019
 #LatestVersion 0.9.1
 #---------------------
 1-cl0ud.com #Lead Forensics
 1-creative-1.com #Lead Forensics
 1000mercis.com #Numberly
+1001-onlinewinacties.com #Advertising Unknown
 1010data.com #1010data
 103bees.com #Tracker Unknown
 105app.com #Tracker Unknown
@@ -897,6 +898,7 @@ cdn.mypcbackup.com #MyPCBackup
 cdnh1.net #Team Internet AG
 cdnh2.net #Team Internet AG
 cdnh3.net #Team Internet AG
+cdxr53.com #Cedexis Radar
 cedexis-radar.net #Cedexis Radar
 cedexis-test.com #Cedexis Radar
 cedexis.com #Cedexis Radar
@@ -1386,7 +1388,7 @@ dumedia.ru #Dumedia
 dw.cbsimg.net
 dwin1.com #Digital Window
 dwin2.com #Digital Window
-dynamicyield.com
+dynamicyield.com #Dynamic Yield
 dynsrvtbg.com #Advertising Unknown
 dyntrk.com #DynAdmic
 e-mark.nl #Emark
@@ -1692,6 +1694,7 @@ getsentry.com #GetSentry
 getsentry.net #GetSentry
 getsentry.org #GetSentry
 getsidekick.com #Hubspot
+getsitecontrol.com #GetSiteControl
 getsocial.io #GetSocial
 gettally.com #Hubspot
 gettraff.com
@@ -1975,7 +1978,7 @@ inq.com #Touch Commerce
 inscname.net #instartlogic
 inscname2.net #instartlogic
 insdns.net #instartlogic
-insightexpressai.com #Tracking Unknown
+insightexpressai.com #Insight Express
 insightfirst.com #AppNexus Inc
 insightfirst.net #AppNexus Inc
 inskinad.com #Inskinad
@@ -2037,6 +2040,7 @@ jetlore.org #Jetlore
 jiashule.com #Adverts
 jisuoping.com #Advertising
 jisusaiche.com
+jivox.com #Jivox
 jmxded110.net
 jntaoche.cn #Advertising
 joeporn.com #Click Meter
@@ -2114,6 +2118,7 @@ ledimed-ks.com #HelloWorld
 legolas-media.com
 leiki.com #Leiki
 lelabdecisionnel.com #Ysance
+lemonpi.io #LemonPI
 levexis.com
 lfstmedia.com #LifeStreet
 lgsmartad.com #Advertisements for LG Smart TVs
@@ -2318,7 +2323,7 @@ metrics.raptr.com #Raptr
 metricswindow.com #Digital Window
 metrigo.com
 mfadsrvr.com #BidSwitch
-mgid.com
+mgid.com #mgid
 mgsvc.com
 micpn.com
 microsoftpanel.com #comScore
@@ -12674,6 +12679,7 @@ onemarketnetwork.com #One Market
 onesignal.com #OneSignal
 onestat.com
 onetag-sys.com
+onetrust.com #OneTrust
 online-metrix.net
 onlinekey.biz #Tracker Unknown
 onlinesalespro.com #Online Sales Pro
@@ -12874,6 +12880,8 @@ preroller.com #BrightRoll
 pressfusion.com #Ad Web
 prfhn.com #Performance Horizon
 pricespider.com #Price Spider
+prijspakkertje.nl #Advertising Unknown
+prijspakkertjes.nl #Advertising Unknown
 primefuse.com
 priority-static-api.nkstatic.com #NinjaKiwi
 privacy.aol.com #AOL
@@ -12892,6 +12900,8 @@ profilmatching.com #Ysance
 profitwell.com #ProfitWell
 proformics.com #Proformics Digital
 projectwonderful.com
+promo-wereld.com #Advertising Unknown
+promowereld.com #Advertising Unknown
 propellerads.com #PropellerAds
 propellerclick.com #PropellerAds
 propllrcurlmb.com #msales
@@ -13007,6 +13017,7 @@ realclever.com #Clever
 realmedia.com #AppNexus Inc
 realtime.email
 realtimerelationship.com #AppNexus Inc
+realytics.io #Realytics
 rebelmouse.com
 rebrand.link #Click Meter
 rebrand.today #Click Meter
@@ -13163,6 +13174,7 @@ rvfrm2008.com #RevenueHits
 rvfrm2009.com #RevenueHits
 rvfrm2010.com #RevenueHits
 rvfrm2011.com #RevenueHits
+s-onetag.com #OneTag
 s3network1.com #Lead Forensics
 s3xified.com #Adtech
 s5network1.com #Lead Forensics
@@ -13652,6 +13664,7 @@ ticket-genie.com #Digital Window
 tidaltv.com
 tifbs.net #United Internet Media
 tiller.co #Tiller
+time-pick.com #Advertising Unknown
 timechange.space #Missleading adverts scam
 tinydm.com #Adware
 tinypass.com #Piano
@@ -13857,6 +13870,7 @@ userreport.com #User Report
 userstats.com
 userzoom.com
 utarget.ru
+uw-scout.com #Advertising Unknown
 vacaneedasap.com #Tracker Unknown
 vacwrite.com #Tracking Unknown
 valaffiliates.com #ValAffiliates
@@ -14025,7 +14039,7 @@ xclicks.net
 xct31.net #IBM Silverpop
 xct32.net #IBM Silverpop
 xct33.net #IBM Silverpop
-xg4ken.com
+xg4ken.com #Kenshoo
 xhbaihehang.com #Advertising
 xibei70.com #Adverising
 xiti.com
