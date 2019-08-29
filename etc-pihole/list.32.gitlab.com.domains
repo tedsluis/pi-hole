@@ -4,7 +4,7 @@
 #License: GNU General Public License v3.0
 #Home: https://quidsup.net/notrack/blocklist.php
 #@ GitLab : https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
-#Updated: 27 Aug 2019
+#Updated: 28 Aug 2019
 #LatestVersion 0.9.1
 #---------------------
 1-cl0ud.com #Lead Forensics
@@ -1862,6 +1862,7 @@ hscrmemail.com #Hubspot
 hscrmemail.net #Hubspot
 hscrmqa01.com #Hubspot
 hscta.net
+hskwq.com #Tracking Unknown
 hsleadflows.net #Hubspot
 hsms01.com #Hubspot
 hsms01qa.net #Hubspot
@@ -12940,6 +12941,7 @@ pushwoosh.com #Pushwoosh
 pussl9.com
 pussycash.com
 pvtraffic.com
+pwieu.com #Tracking Unknown
 pwrads.net
 pxi.pub
 pxlad.io
