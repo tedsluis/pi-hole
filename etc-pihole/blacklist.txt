@@ -427,3 +427,13 @@ r3---sn-25glen7e.googlevideo.com
 r5---sn-aigl6ney.googlevideo.com
 r3---sn-nx5s7n76.googlevideo.com
 r3---sn-4g5edn7l.googlevideo.com
+r2---sn-4g5e6nze.googlevideo.com
+r1---sn-p5qs7n7s.googlevideo.com
+r4---sn-4g5e6n7k.googlevideo.com
+r3---sn-hp57kn7z.googlevideo.com
+r2---sn-p5qlsndk.googlevideo.com
+r4---sn-a5ms7n7l.googlevideo.com
+r5---sn-hp57knle.googlevideo.com
+r5---sn-4g5ednsr.googlevideo.com
+r2---sn-25glen7e.googlevideo.com
+r4---sn-4g5e6nlk.googlevideo.com
