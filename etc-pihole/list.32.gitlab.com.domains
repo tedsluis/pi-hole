@@ -4,7 +4,7 @@
 #License: GNU General Public License v3.0
 #Home: https://quidsup.net/notrack/blocklist.php
 #@ GitLab : https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
-#Updated: 28 Aug 2019
+#Updated: 02 Sep 2019
 #LatestVersion 0.9.1
 #---------------------
 1-cl0ud.com #Lead Forensics
@@ -1343,6 +1343,7 @@ displaymarketplace.com
 displaywords.com #AppNexus Inc
 displaywords.net #AppNexus Inc
 disqusads.com #Disqus
+divvit.com #Divvit
 dl-rms.com
 dleke.com #Advertising
 dlqm.net
@@ -13133,6 +13134,7 @@ rooxflwtrafms.com #msales
 route.to
 routecdn.com
 royapp.com #Roy App
+rqtrk.eu #Roq.ad
 rshplgmediams.com #msales
 rsvpgenius.com
 rtb007.com #RevenueHits
@@ -13883,6 +13885,7 @@ vcommission.com #vCommission
 vdna-assets.com #Imagini Holdings
 veeseo.com #Veeseo
 veille-referencement.com
+veinteractive.com #Volvelle
 velti.com #Velti
 venturead.com
 veoxa.com
@@ -13932,6 +13935,7 @@ voicefive.com
 voluumtrk.com #Voluum
 voluumtrk2.com #Voluum
 voluumtrk3.com #Voluum
+volvelle.tech #Volvelle
 vortex-sandbox.data.microsoft.com #Microsoft
 vortex-win.data.microsoft.com #Microsoft
 vortex.data.microsoft.com #Microsoft
