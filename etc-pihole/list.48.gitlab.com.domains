@@ -4,11 +4,14 @@
 #License: GNU General Public License v3.0
 #Home: https://quidsup.net/notrack/malware.php
 #@ GitLab : https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
-#Updated: 02 Sep 2019
+#Updated: 03 Sep 2019
 #LatestVersion 0.9.1
 #---------------------
 1kdailyprofit.biz #Scam
 1kdailyprofit.co #Scam
+59cn7.com #Malware 198.134.112.241
+5yfi7sy.com #Malware 198.134.112.241
+7hor9gul4s.com #Malware 198.134.112.241
 96.lt #Phishing
 abcd7777.com #Chinese Scammer
 abcdnf.com #Chinese Scammer
@@ -33,9 +36,13 @@ booe.pro #Malvertising
 boudja.com #Adware
 bqdqnmwwnz.com #Command and Control
 check-this-out-now.online #Popups
+cjl58f3agc.com #Malware 198.134.112.241
+clicksgear.com #Malware 198.134.112.241
 consensu.org #Popups
 cookiereports.com #Annoying Cookie Popup
+cpm20.com #Malware 198.134.112.241
 cybergateway.net #Phishing
+deloplen.com #Malvertising
 digitaloptout.com #Ad Injector
 donation-tools.org #Ad Injector
 drivethelife.com #PUA
@@ -56,6 +63,7 @@ googe.com #Fake Site
 googele.com #Typo
 hanstrackr.com #Malware
 hemailaccessonline.com #Browser Hijacker
+hitcpm.com #Malware 198.134.112.241
 hoholikik.club #Malvertising
 ilo134ulih.com #Malvertising
 imgfarm.com #PUA - Mindspark
@@ -79,15 +87,18 @@ modelwork.org #Browser Hijacker
 myfood.ltd #Potentially Unwanted Application
 mysearch.com #Browser Hijacker
 myxns.cn #DNS Exploiters
+newmayads.com #Malware 198.134.112.241
 news-bbc-uk.com #Scam
 nextyourcontent.com #Adware
 nuxues.com #Popups
+o4uxrk33.com #Malware 198.134.112.241
 oaqjwapqdho.com #Potentially Harmful
 oc.uk #Typo of .co.uk
 omnibox.bar #Browser Hijacker
 onclickbright.com #Malvertising
 onlineformfinder.com #PUA - Mindspark
 onlinesurveydaily.com #Annoying
+pbterra.com #Malware 198.134.112.241
 pdn-1.com #Malware
 pdn-2.com #Malware
 pdn-3.com #Malware
@@ -99,12 +110,16 @@ proudflex.org #Malware
 prugskh.com #Ragentek Rootkit
 prugskh.net #Ragentek Rootkit
 push-signals.online #Popups
+putrr16.com #Malware 198.134.112.241
+putrr18.com #Malware 198.134.112.241
+pyq6n.com #Malware 198.134.112.241
 qnjdtefk.com #Popups
 qpdownload.com #Malware
 reimageplus.com #Scam
 reliablesurfingext.biz #Fake updates
 rensovetors.info #Malware
 retreatoftheretreat.site #Malware - RIG Exploit
+rgvqcsxqge.com #Malware 198.134.112.241
 roughted.com #Malvertising
 s4yxaqyq95.com #Popups
 s4yxaqyq95.fuk #Popups
@@ -129,7 +144,10 @@ tourtodaylaboratory.com #PUA - Filezilla
 trumpetedextremes.com #Ad Injector
 trustednotice.news #Popups
 tweakbit.com #PUA
+u21drwj6mp.com #Malware 198.134.112.241
 uk-hub.com #Phishing
+undergiveto54.com #Malware 198.134.112.241
+vinfdv6b4j.com #Malware 198.134.112.241
 wbidder.online #Popups
 wcomhost.com #Phishing
 wealthyboost.com #Scam

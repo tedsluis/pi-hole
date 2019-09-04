@@ -4,7 +4,7 @@
 #License: GNU General Public License v3.0
 #Home: https://quidsup.net/notrack/blocklist.php
 #@ GitLab : https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
-#Updated: 02 Sep 2019
+#Updated: 03 Sep 2019
 #LatestVersion 0.9.1
 #---------------------
 1-cl0ud.com #Lead Forensics
@@ -13638,7 +13638,7 @@ televisions2compare.com #Digital Window
 telize.com
 tellapart.com
 tellme.com #[24]7
-terraclicks.com
+terraclicks.com #Tracking Unknown
 terrambmsads.com #msales
 terrapops.com #Advertising Unknown
 testanalytics.net
