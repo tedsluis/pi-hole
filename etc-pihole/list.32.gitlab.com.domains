@@ -4,8 +4,8 @@
 #License: GNU General Public License v3.0
 #Home: https://quidsup.net/notrack/blocklist.php
 #@ GitLab : https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
-#Updated: 03 Sep 2019
-#LatestVersion 0.9.1
+#Updated: 07 Sep 2019
+#LatestVersion 0.9.2
 #---------------------
 1-cl0ud.com #Lead Forensics
 1-creative-1.com #Lead Forensics
@@ -222,6 +222,7 @@ admedia.com #AdMedia
 admediaclick.com #AppNexus Inc
 admedo.com
 admeld.com #Google
+admicro.vn #Admicro
 admized.com
 admo.tv #Clickon
 admob.com #AdMob
@@ -370,6 +371,8 @@ advertising.com #AOL
 advertising.microsoft.com #Microsoft
 adverts.itv.com #ITV
 advertserve.com
+advglobalnltrck.com #Tracking Unknown
+adviceglobal.com.mt #Advice Global
 adviva.net
 advolution.de
 adweb-connect.net #Ad Web
@@ -937,6 +940,7 @@ clevernt.com #HSTPNetwork
 click.monetizer.info
 click.union.ucweb.com
 clickadu.com #Clickadu
+clickagy.com #Clickagy
 clickbank.net
 clickdensity.com #Box UK
 clickfordeal.click #msales
@@ -1360,7 +1364,7 @@ dotomi.com
 doubleclickbygoogle.com #Google
 doublepimp.com #DoublePimp
 doublepimpssl.com #Double Pimp
-doubleverify.com
+doubleverify.com #DoubleVerify
 doutthenhap.info #Danesco Trading Ltd
 dowjoneson.com
 dpchica.mobi #Millennial Media
@@ -2061,7 +2065,7 @@ justinejones.net #Ad Web
 justinejones.org #Ad Web
 justnavigators.com #Digital Window
 justpremium.com
-jwpltx.com
+jwpltx.com #JW Player
 k-analytix.com
 kaloo.ga #Kalooga
 kalooga.com #Kalooga
@@ -12755,7 +12759,7 @@ pages09.net #IBM Silverpop
 paidonresults.net
 panachetech.com #AppNexus Inc
 panel100.com
-pardot.com
+pardot.com #Pardot
 paris-cto.com #Ysance
 parkingcrew.net #Parking Crew
 parsely.com
@@ -12938,6 +12942,7 @@ pump.to
 purch.com #Purch
 purplenile.com #eGain Corporation
 pusherapp.com #Pusher
+pushlinck.com #Advertising Unknown
 pushwoosh.com #Pushwoosh
 pussl9.com
 pussycash.com
@@ -13776,6 +13781,7 @@ trusted.site #PathDefender
 trustedsite.com
 truviewanalytics.com #Adobe
 truviewdata.com #Adobe
+trvdp.com #Tracker Unknown
 trychameleon.com #Chameleon
 tsyndicate.com #Advertising Unknown
 ttgtmedia.com #Tech Target
@@ -13953,7 +13959,7 @@ vservmobi.com #Vserv
 vungle.com #Vungle
 vvbox.cz #Tracker Unknown
 vwdservices.com #VWD Group
-w55c.net
+w55c.net #Dataxu
 walkme.com
 waparena.xyz
 watcheezy.net
@@ -13981,6 +13987,9 @@ webcollage.com #Webcollage
 webcollage.net #Webcollage
 webengage.co #WebEngage
 webgains.com
+weborama.com #Weborama
+weborama.fr #Weborama
+weborama.io #Weborama
 webrankresearch.com #TMRG
 webrankresearch.net #TMRG
 webserviceaward.com #Web Service Award

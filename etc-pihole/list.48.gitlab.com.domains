@@ -4,8 +4,8 @@
 #License: GNU General Public License v3.0
 #Home: https://quidsup.net/notrack/malware.php
 #@ GitLab : https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
-#Updated: 03 Sep 2019
-#LatestVersion 0.9.1
+#Updated: 07 Sep 2019
+#LatestVersion 0.9.2
 #---------------------
 1kdailyprofit.biz #Scam
 1kdailyprofit.co #Scam
@@ -137,6 +137,7 @@ surveyrouter.com #Toluna Surveys
 szgl120.com #Scam
 taosha.cc #Android Trojan
 techsuperb.biz #Adware
+theseoffersforyou.com #Adware
 tiny.ie #Phishing
 toftothisle.info #Malvertising
 toogle.com #Malicious Site
