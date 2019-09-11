@@ -4,7 +4,7 @@
 #License: GNU General Public License v3.0
 #Home: https://quidsup.net/notrack/blocklist.php
 #@ GitLab : https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
-#Updated: 07 Sep 2019
+#Updated: 10 Sep 2019
 #LatestVersion 0.9.2
 #---------------------
 1-cl0ud.com #Lead Forensics
@@ -37,7 +37,6 @@
 2nyan.org #Tracker Unknown
 2o7.net #Adobe
 2znp09oa.com #Tracker Unknown
-302br.net #Integral Ad Science
 303br.net #Integral Ad Science
 304br.net #Integral Ad Science
 305br.net #Integral Ad Science
@@ -1232,14 +1231,12 @@ d-80-live.com
 d09.no
 d15cjcet1djbmv.cloudfront.net #trandsey.info
 d1g3gvqfdsvkse.cloudfront.net #Canvas Fingerprinting
-d2ha22j8ys3e0o.cloudfront.net #Canvas Fingerprinting
 d2jjzw81hqbuqv.cloudfront.net #Canvas Fingerprinting
 d2ymkpxi1rgldj.cloudfront.net #Canvas Fingerprinting
 d38nbbai6u794i.cloudfront.net #Canvas Fingerprinting
 d3c3cq33003psk.cloudfront.net #QuBit Digital
 d3ohfm6v3473ou.cloudfront.net #Global Media Group
 d3oxtn1x3b8d7i.cloudfront.net #Ads
-d3ujids68p6xmp.cloudfront.net
 d5nxst8fruw4z.cloudfront.net #Alexa
 da-ads.com
 dakic-ia-300.com #Lead Forensics
@@ -12819,7 +12816,6 @@ piwik.pro #Piwik PRO
 piwik.root.ax #PIWIK Analytics
 piwik.up.welt.de #WELT
 piwikpro.com #Piwik PRO
-pixel-eu.rubiconproject.net.akadns.net #Rubicon
 pixel.bild.de #Bild
 pixel.brit.co
 pixel.facebook.com #Facebook
@@ -12829,7 +12825,6 @@ pixel.messenger.com #Facebook
 pixel.nymag.com #New York Magazine
 pixel.reddit.com
 pixel.redditmedia.com
-pixel.rubiconproject.net.akadns.net #Rubicon
 pixel.runative-syndicate.com #Runactive
 pixel.spotify.com #Spotify tracking ads
 pixel.watch #Click Meter
@@ -13862,6 +13857,7 @@ update.com #Aurea
 updatemyprofile.com #Campaign Monitor Pty
 updatemyprofile.net #Campaign Monitor Pty
 updpct.info #Sergii Mykolaenko
+uplynk.com #Uplynk Video Advertising
 upsales.com #Upsales Nordic
 upsales.org #Upsales Nordic
 upscore.com #UpScore
@@ -13889,6 +13885,7 @@ valdelabs.com #AppNexus Inc
 vcmedia.vn
 vcommission.com #vCommission
 vdna-assets.com #Imagini Holdings
+vdo.ai #Vdo.ai Video Advertising
 veeseo.com #Veeseo
 veille-referencement.com
 veinteractive.com #Volvelle
