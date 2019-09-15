@@ -158,6 +158,7 @@ analytics.convertlanguage.com
 analytics.cynapse.com
 analytics.datahc.com
 analytics.dev.springboardvideo.com
+analytics.developer.riotgames.com
 analytics.dvidshub.net
 analytics.edgekey.net
 analytics.edgesuite.net
@@ -328,6 +329,7 @@ collector.roistat.com
 collector.snplow.net
 collector.sspinc.io
 comet.ibsrv.net
+conversions.genieventures.co.uk
 cookies.livepartners.com
 cookietracker.cloudapp.net
 cookiex.ngd.yahoo.com
@@ -358,6 +360,7 @@ counter.yadro.ru
 counters.freewebs.com
 counters.gigya.com
 creator.zmags.com
+crta.dailymail.co.uk
 csi.gstatic.com
 csp-collector.appspot.com
 csp.archant.co.uk
@@ -461,6 +464,7 @@ data.alexa.com
 data.circulate.com
 data.minute.ly
 data.queryly.com
+datadog-service.mvfglobal.com
 dc8na2hxrj29i.cloudfront.net
 dc8xl0ndzn2cb.cloudfront.net
 dd6zx4ibq538k.cloudfront.net
@@ -476,6 +480,7 @@ dkj2m377b0yzw.cloudfront.net
 dl1d2m8ri9v3j.cloudfront.net
 dlvkf5067xruv.cloudfront.net
 dn34cbtcv9mef.cloudfront.net
+dna8twue3dlxq.cloudfront.net
 dnn506yrbagrg.cloudfront.net
 doug1izaerwt3.cloudfront.net
 ds-aksb-a.akamaihd.net
@@ -525,10 +530,12 @@ fastcounter.onlinehoster.net
 fbpixel.network.exchange
 filament-stats.herokuapp.com
 flashstats.libsyn.com
+fog.pixual.co
 fourmtagservices.appspot.com
 friends.totallynsfw.com
 future-fie-assets.co.uk
 future-price.co.uk
+g2insights-cdn.azureedge.net
 ga-beacon.appspot.com
 ga.kvideo.io
 ga.webdigi.co.uk
@@ -893,6 +900,7 @@ tag.aumago.com
 tag.brandcdn.com
 tag.email-attitude.com
 tag.myplay.com
+tag.rightmessage.com
 tag.rmp.rakuten.com
 tag.sonymusic.com
 tagger.opecloud.com
@@ -901,6 +909,7 @@ tags.master-perf-tools.com
 tags.newscgp.com
 target.fark.com
 target.mixi.media
+targeting.perso.aws.arc.pub
 targeting.wpdigital.net
 tc.airfrance.com
 tcheck.outbrainimg.com
@@ -1012,6 +1021,7 @@ tracking.legacyoffers.com
 tracking.lengow.com
 tracking.listhub.net
 tracking.livingsocial.com
+tracking.monsido.com
 tracking.musixmatch.com
 tracking.pacharge.com
 tracking.performgroup.com
@@ -1494,6 +1504,7 @@ affiliates.myfax.com
 affiliates.purevpn.com
 affiliates.treasureisland.com
 affiliates.vpn.ht
+agg.inquisitr.com
 aggregator.inquisitr.com
 ai.inmdata.io
 ai.iol.io
@@ -1624,6 +1635,19 @@ clog.go.com
 cls.ichotelsgroup.com
 clvk.viki.io
 cmap.alibaba.com
+cmp.arnnet.com.au
+cmp.cio.com.au
+cmp.cmo.com.au
+cmp.computerworld.com.au
+cmp.cso.com.au
+cmp.digitalartsonline.co.uk
+cmp.greenbot.com
+cmp.macworld.co.uk
+cmp.macworld.com
+cmp.pcworld.co.nz
+cmp.pcworld.com
+cmp.techadvisor.co.uk
+cmp.techhive.com
 cmstrendslog.indiatimes.com
 cmstrendslog.timesnow.tv
 cnt.nicemix.com
@@ -1759,6 +1783,7 @@ h.cliphunter.com
 harvester.eu.square-enix.com
 harvester.hbpl.co.uk
 heartbeat.flickr.com
+hermes.theglobeandmail.com
 hitcount.heraldm.com
 hitweb2.chosun.com
 hrum.hotelsapi.io
@@ -1993,6 +2018,7 @@ smetrics.att.com
 smetrics.delta.com
 snowplow-collector.sugarops.com
 somniture.theglobeandmail.com
+sourcepoint.vice.com
 sp-mms.weather.com
 sp.app.com
 sp.argusleader.com
@@ -2242,6 +2268,7 @@ track.pushbullet.com
 track.rediff.com
 track.slideshare.net
 track.thesaurus.com
+track.totalav.com
 track.ugamezone.com
 track.ultimate-guitar.com
 track.webgains.com
@@ -2253,10 +2280,12 @@ tracker-api.my.com
 tracker.anandtech.com
 tracker.calameo.com
 tracker.cpapath.com
+tracker.jawcloud.co
 tracker.joost.com
 tracker.lolalytics.com
 tracker.mattel.com
 tracker.nbcuas.com
+tracker.nitropay.com
 tracker.pandora.com
 tracker.pinnaclesports.com
 tracker.realclearpolitics.com
@@ -2317,12 +2346,14 @@ up.nytimes.com
 uptpro.homestead.com
 urchin-tracker.bigpoint.net
 urlcheck.hulu.com
+user-metrics.onthemarket.com
 userfly.com
 ut.ratepoint.com
 v.oui.sncf
 vertical-stats.huffingtonpost.com
 video-stats.video.google.com
 videotracker.washingtonpost.com
+visit.asb.co.nz
 visit.dealspwn.com
 visit.mobot.net
 visit.theglobeandmail.com
@@ -2391,6 +2422,7 @@ counter.zeit.de
 cpix.daserste.de
 cpx.golem.de
 cpxl.golem.de
+cxt.deutsche-bank.de
 dpm.bluray-disc.de
 dw-eu.com.com
 ens.luzernerzeitung.ch
