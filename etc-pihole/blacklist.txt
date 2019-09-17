@@ -472,3 +472,6 @@ r5---sn-4g5e6nsy.googlevideo.com
 r1---sn-nx5e6ne6.googlevideo.com
 r5---sn-ab5l6n67.googlevideo.com
 r2---sn-4g5ednee.googlevideo.com
+r2---sn-vgqsenls.googlevideo.com
+r3---sn-4g5e6nss.googlevideo.com
+r4---sn-vgqsenls.googlevideo.com
